@@ -1,4 +1,4 @@
-פרויקט עיצובי css אתר רגע מתוק של מתוכנים המתבססים על מוצרי "עלית"
+פרויקט עיצובי css אתר "רגע מתוק" של מתוכנים המתבססים על מוצרי "עלית"
 
 דף הבית
 
@@ -21,7 +21,7 @@
 
 כל תמונה נפתחת בלחיצה לדף המתכון
 
-![image](https://github.com/elishevaStar/SweetMoment/assets/144705468/c184a7ee-9362-4a47-a940-d10cf00841e3)
+![image](https://github.com/elishevaStar/SweetMoment/assets/144705468/8004d685-53db-4129-87bd-1193c30c6c82)
 ![image](https://github.com/elishevaStar/SweetMoment/assets/144705468/132c9246-1755-438a-ae76-cec539098204)
 פוטר לדף
 
