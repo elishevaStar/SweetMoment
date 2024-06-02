@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>יצירת קשר</title>
+    <link href="StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <form name="f1" id="f1" autocomplete="on" action="ConcatPage.html" method="get">
+        <div class="d1">
+            <header>
+                <div>
+                    <div>
+                        <img src="photo/logo2.jpg" alt="logo rega matok" />
+                    </div>
+                    <nav class="n1">
+                        <a href="HomePage.html">בית</a>
+                        <a href="AboutPage.html">אודות</a>
+                        <a href="ConcatPage.html">צרו קשר</a>
+                    </nav>
+                </div>
+                <nav class="n2">
+                    <div>
+                        <nav>
+                            <a href="CakesPage.html">
+
+                                <img src="photo/Cake1.svg" />
+                                עוגות
+                            </a>
+                            <a href="CupPage.html">
+                                <img src="photo/Cupcakes.svg" />
+                                מאפינס וקאפקייקס
+                            </a>
+                            <a href="SpeacialPage.html">
+                                <img src="photo/Kids.svg" />
+                                מתכונים מיוחדים
+                            </a>
+                        </nav>
+                    </div>
+                </nav>
+            </header>
+            <section class="dC">
+                <div>
+                    <p >הרשמו לניוזלטר של "רגע מתוק"</p>
+                    <p>וקבלו מתכונים שתמיד מצליחים</p>
+                    <input type="text" name="last_name" id="01" placeholder="שם משפחה" required="required" />
+                    <input type="text" name="first_name" id="02" placeholder="שם פרטי" required="required" />
+                    <input type="tel" placeholder="טלפון" required="required" pattern="0[2-9][0-9]?-?[0-9]{7}" name="tel_home" id="05" />
+                    <input type="email" placeholder="דואר אלקטרוני" name="email" required="required" id="010" />
+                    <p class="pr"><input required="required" type="checkbox" id="family" />אני לא רובוט</p>
+                    <button type="submit" form="f1">הרשמה</button>
+                </div>
+            </section>
+        </div>
+        <footer>
+            <img src="photo/longFooter.jpg" alt="footer" />
+        </footer>
+    </form>
+</body>
+</html>
